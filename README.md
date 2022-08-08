@@ -35,13 +35,6 @@ The following technologies were chosen for this project:
 - In the unit test: "Junit", "Mock", "Mockito" to ensure the operation of the code in accordance with the business rules.
 .
 
-### Selection Conductor Challenge
-Hi, we want to invite you to participate in our selection challenge. Ready to participate? Your work will be seen by our team and you will eventually receive feedback on what we think of your work. Is not cool?
-
-### About the opportunity
-The vacancy is for Java Developer, we have vacancies with different levels of seniority and for each of them we will use specific criteria considering this aspect, combined?
-If you pass this step, you will be invited for a final interview with our technical team.
-
 ### Technical Challenge
   Develop a credit analysis system for new cardholders, where we must have users with two types of permission, namely:
     * User for capturing proposals for new cards: this user will be responsible for registering new cardholders. After registering the holders, this user will only be allowed to check the results of the analysis carried out by the analysts.
